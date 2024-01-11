@@ -40,5 +40,4 @@ public class BuildArrayFromPermutation1920 {
         }
         return result;
     }
-
 }
